@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "challenge"
 include(":app")
+include(":app:core")
+include(":app:core:network")
